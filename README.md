@@ -6,4 +6,11 @@ This is the beginning of what I hope will be a beneificial collaborative for pro
 
 I'm also hoping contributors will share their provenance woes, and let others help solve them. If you're particularly knowledgeable about a specific collector, language, or medium-- SHARE THAT AWESOMENESS. 
 
-Until we can come up with a more elegant solution, can we file requests for research help in the issues section in the side bar? 
+Until we can come up with a more elegant solution, can we file requests for research help in the issues section in the side bar?
+
+##Where to Start
+
+###Online
+There's more and more documentation being added to the web every day. Some of it is full text and searchable, some of it is only searchable, and some gives you better results if you have a university or library login. My top few are
+
+1. (InternetArchve)[www.archive.org]
